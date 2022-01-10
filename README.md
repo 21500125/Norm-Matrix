@@ -19,7 +19,7 @@ val = np.linalg.norm(n,2)
 print("{:.2f}".format(val))
 
 ```
-## Sample Input and Output:
+## Output:
 ![norm1](./SS1.PNG)
 
 ## Result
